@@ -6,3 +6,5 @@ Many updated versions of the mission file and boxes and units later this is what
 Update to the Box
 
 Bayley - 9/12/16 0845 - Furlongs changes to SF loadout box
+
+Scotty -9/12/16 2225Z - added  blacklisting at cornner of map to stop AI from spawning there. Rmoved floating buildings on Rahmadi
