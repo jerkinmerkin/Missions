@@ -9,3 +9,5 @@ Many updated versions of the mission file and boxes and units later this is what
 Bayley - 9/12/16 0845 - Furlongs changes to SF loadout box
 
 Scotty -9/12/16 2225Z - V5 added blacklisting at cornner of map to stop AI from spawning there. Rmoved floating buildings on Rahmadi
+
+Yakavetta - 09/14/2016 1440z - V7 built off Scotty's V6, assigned medical roles as SQF's vs. ACE's assignments.  3 for PF, 1 for Cav 
