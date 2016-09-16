@@ -15,3 +15,5 @@ Yakavetta - 09/14/2016 1440z - V7 built off Scotty's V6, assigned medical roles 
 Yakavetta - 09/15/2016 1145z - V8 built off previous version, assigned equipment to TACP's based off Bayley and Nichol's requests
 
 Bayley - 9/15/16 2117z - v9 Pushed from Furlong. Inc updates to TACP gear
+
+Yakavetta - 09/16/16 1145z - V10 built off V9, assigned Carryhandle variant M4A1 to TACP, removed Block II's.  
