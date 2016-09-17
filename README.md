@@ -19,3 +19,5 @@ Bayley - 9/15/16 2117z - v9 Pushed from Furlong. Inc updates to TACP gear
 Yakavetta - 09/16/16 1145z - V10 built off V9, assigned Carryhandle variant M4A1 to TACP, removed Block II's.  
 
 Scotty_Z - 09/17/16 0822Z - gamehandler now on uid
+
+Yakavetta - 09/17/16 1605z - created a new blank template mission by deleting the alive military modules.  This is for weekend operations, not for primary work.  Done at Bayley's request
