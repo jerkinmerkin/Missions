@@ -21,3 +21,5 @@ Yakavetta - 09/16/16 1145z - V10 built off V9, assigned Carryhandle variant M4A1
 Scotty_Z - 09/17/16 0822Z - gamehandler now on uid
 
 Scotty_Z - 09/17/16 2043z - Zeus Fixed should be fixed
+
+Nichols - 9/18/16 0511z - Possible update for mission.sqm for zeus slots. Scotty checking on his end as well.
