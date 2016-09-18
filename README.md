@@ -23,3 +23,5 @@ Scotty_Z - 09/17/16 0822Z - gamehandler now on uid
 Scotty_Z - 09/17/16 2043z - Zeus Fixed should be fixed
 
 Nichols - 9/18/16 0511z - Possible update for mission.sqm for zeus slots. Scotty checking on his end as well.
+
+Bayley - 9/18/16 2030z - Updated mission from repo at Nichols request
