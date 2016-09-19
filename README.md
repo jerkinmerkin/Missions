@@ -24,6 +24,8 @@ Scotty_Z - 09/17/16 2043z - Zeus Fixed should be fixed
 
 Nichols - 9/18/16 0511z - Possible update for mission.sqm for zeus slots. Scotty checking on his end as well.
 
+Yakavetta - 09/18/16 1641z - Zeus assigned to admin and PID (created unique gamemasters for each PID, as well as deleted the # for each Zeus). Removed vanilla arma loadouts for TACP HMMWV's, and added ACE medical items. Created standard frequencies for all radios, as well, all radios now pre-programmed. 
+
 Bayley - 9/18/16 2030z - Updated mission from repo at Nichols request
 
 scotty_Z 9/18/16 0339z - using furlongs update disabled arty comp and other misc fixes
