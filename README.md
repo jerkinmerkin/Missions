@@ -31,3 +31,5 @@ Bayley - 9/18/16 2030z - Updated mission from repo at Nichols request
 scotty_Z 9/18/16 0339z - using furlongs update disabled arty comp and other misc fixes
 
 Yakavetta - 09/19/16 1410z - Used Scotty's 09/18 version, (love the SQF for all now, it's looking slick dude), and fixed the TACP Medical HMMWV loadout bug (backpacks were bugged, all fixed now).  Tried to fix the radio frequency synching (some would be set, some wouldn't.  Think it's fixed now), and fixed the ORBAT by setting each unit to a unique alpha numeric identifier (Command Alpha, PF Bravo, Cav Charlie, SF Delta, CAD-N Echo)
+
+scotty_Z - 9/19/16 2251z - using yaks patch 12 added varible waether re-sycned alive modules added 2 custom objectives 1 overlooking main MSR in the north and 2 overlooking Border/DMZ city on the north side
