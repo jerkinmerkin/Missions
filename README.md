@@ -35,3 +35,5 @@ Yakavetta - 09/19/16 1410z - Used Scotty's 09/18 version, (love the SQF for all 
 bAYLEY - 9/19-/16 2313Z- Pushed ScottyZ update
 
 Scotty_Z 9/21/16 2309z fixes med load out for mech and pubbies because i broke them
+
+Scotty_Z 9/24/16 0718z fixes misc alive settings and loadouts
