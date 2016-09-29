@@ -39,3 +39,5 @@ Scotty_Z 9/21/16 2309z fixes med load out for mech and pubbies because i broke t
 Scotty_Z 9/24/16 0718z fixes misc alive settings and loadouts
 
 Yakavetta 09/24/16 1445z fixed SF HMMWV loadout in vic 1, fixed loadouts not persisting on player join in TACP and SF vehicles, tweaked TACP Loadouts (swapped M9, added compatible ammo), tweaked ISR DM (Ammo wasn't working as well), and re-added M2010 to SF Sniper rucksack.  Built this off Scotty's previous version above.
+
+Scotty_Z 09/28/16 0418z Blacklisted parts of the south island and added 2x MV22. MOD UPDATES Boxes, Vics, units, Alive, and ACE Check PM FOR MOD LINKS
