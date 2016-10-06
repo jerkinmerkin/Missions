@@ -43,3 +43,5 @@ Yakavetta 09/24/16 1445z fixed SF HMMWV loadout in vic 1, fixed loadouts not per
 Scotty_Z 09/28/16 0418z Blacklisted parts of the south island and added 2x MV22. MOD UPDATES Boxes, Vics, units, Alive, and ACE Check PM FOR MOD LINKS
 
 Yakavetta 09/29/216 readded MUNS NVG scope to SF Sniper loadout's rucksack.  Based off scotty's 09/28 build above
+
+Bayley 10/05/16 0325z Pushed VERSION 3 from the github and relaunched server - COP Persisted
