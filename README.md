@@ -45,3 +45,5 @@ Scotty_Z 09/28/16 0418z Blacklisted parts of the south island and added 2x MV22.
 Yakavetta 09/29/216 readded MUNS NVG scope to SF Sniper loadout's rucksack.  Based off scotty's 09/28 build above
 
 Bayley 10/05/16 0325z Pushed VERSION 3 from the github and relaunched server - COP Persisted
+
+Nichols 10/24/16 1300z Repushed HMD mod with updated Imperial measurements addon in the game file. Forgot to save the game so it rolled back to last Thursday save. Updated all ALiVE units in vicinity of PB Montezuma by deleting them. Also strange bug was reported to me that appeared yesterday (10/24) of AI SF being in underwear with 1 may in weapon...possibly related to HMD mod. Am testing to see what I can find out. If it does not go away will remove HMD mod and see what happens.
